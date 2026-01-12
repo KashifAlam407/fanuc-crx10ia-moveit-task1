@@ -1,7 +1,8 @@
+# build artifacts
 build/
 install/
 log/
-.vscode/
-.idea/
-.DS_Store
+
+# datasets / external sources
+src/urdf_files_dataset/
 

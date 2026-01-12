@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: fanuc_crx10ia_description
+    relative_path: urdf/crx10ial.urdf
+  srdf:
+    relative_path: config/fanuc_crx10ial.srdf
+  package_settings:
+    author_name: ""
+    author_email: ""
+    generated_timestamp: 1768170185
