@@ -56,6 +56,14 @@ The objective is to set up the **Fanuc CRX-10iA** robot in **ROS 2 Humble**, con
 
 ---
 
+### Video Demonstration
+
+[![Custom DWA Local Planner Demo](https://img.youtube.com/vi/1NOkW2mW9GI/0.jpg)](https://www.youtube.com/watch?v=F9Jmkpb1PWk)
+
+▶ Click the image above to watch the full demo video on YouTube.
+
+-----------------------------------------------------------------------
+
 ## Repository Structure
 
 fanuc-crx10ia-moveit-task1/
