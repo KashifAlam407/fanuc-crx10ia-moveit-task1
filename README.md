@@ -6,7 +6,15 @@ The objective is to set up the **Fanuc CRX-10iA** robot in **ROS 2 Humble**, con
 
 > Gripper integration is **partially completed**.
 
----
+-----------------------------------------------------------------------
+
+### Video Demonstration
+
+[![Custom DWA Local Planner Demo](https://img.youtube.com/vi/F9Jmkpb1PWk/0.jpg)](https://www.youtube.com/watch?v=F9Jmkpb1PWk)
+
+▶ Click the image above to watch the full demo video on YouTube.
+
+-----------------------------------------------------------------------
 
 ## What Has Been Completed (Task 1)
 
@@ -55,14 +63,6 @@ The objective is to set up the **Fanuc CRX-10iA** robot in **ROS 2 Humble**, con
 - No gripper controller configured (left intentionally for later)
 
 ---
-
-### Video Demonstration
-
-[![Custom DWA Local Planner Demo](https://img.youtube.com/vi/F9Jmkpb1PWk/0.jpg)](https://www.youtube.com/watch?v=F9Jmkpb1PWk)
-
-▶ Click the image above to watch the full demo video on YouTube.
-
------------------------------------------------------------------------
 
 ## Repository Structure
 
